@@ -1,5 +1,6 @@
 # Hosting-_Static_website_S3
 
+
 >> Steps: 
 
 + Create a S3 bucket and disable block public access, rest are default.
