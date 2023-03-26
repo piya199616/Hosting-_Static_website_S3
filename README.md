@@ -1,4 +1,4 @@
-# Hosting-_Static_website_S3
+# Hosting_Static_website_S3
 
 
 >> Steps: 
